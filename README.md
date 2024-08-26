@@ -5,7 +5,7 @@
 
 # Hi 👋, I am Darshan Choubisa! **`</>`** **`>_`** 👨‍💻🌐🚀 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xStephx&theme=shadow_red&hide_border=false&layout=compact) <br/><br/>
+![Darshan-choubisa's Stats](https://github-readme-stats.vercel.app/api?username=Darshan-choubisa&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) <br/><br/>
 ![](https://github-readme-stats.vercel.app/api?username=xStephx&show_icons=true&theme=shadow_red) <br/> <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=xStephx&theme=shadow_red&hide_border=false)
 
