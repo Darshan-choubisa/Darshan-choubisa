@@ -6,7 +6,6 @@
 # Hi 👋, I am Darshan Choubisa! **`</>`** **`>_`** 👨‍💻🌐🚀 
 
 ![Darshan-choubisa's Stats](https://github-readme-stats.vercel.app/api?username=Darshan-choubisa&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api?username=xStephx&show_icons=true&theme=shadow_red) <br/> <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=xStephx&theme=shadow_red&hide_border=false)
 
 ### 💻 Tech Skills
