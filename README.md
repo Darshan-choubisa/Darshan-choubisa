@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-
-<img src="https://komarev.com/ghpvc/?username=xStephx&color=red"/>
+![](https://komarev.com/ghpvc/?username=your-github-Darshan-choubisa&color=red)
 
 # Hi 👋, I am Darshan Choubisa! **`</>`** **`>_`** 👨‍💻🌐🚀 
 
