@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br> #👍I am  Darshan Choubisa **`</>`** **`>_`** 👨‍💻🌐🚀<br>🎯I am working on developing and designing webistes, landing pages<br>👨‍💻I am currently learning React and Python 
+Hi there 👋<br> 👍I am  Darshan Choubisa **`</>`** **`>_`** 👨‍💻🌐🚀<br>🎯I am working on developing and designing webistes, landing pages<br>👨‍💻I am currently learning React and Python 
 
 
 ## 🌐 Socials:
